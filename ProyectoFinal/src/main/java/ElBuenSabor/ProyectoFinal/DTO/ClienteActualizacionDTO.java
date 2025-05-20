@@ -29,5 +29,5 @@ public class ClienteActualizacionDTO {
     private String confirmNewPassword;
 
     // Consider adding fechaNacimiento if it's updatable
-    // private java.time.LocalDate fechaNacimiento;
+    //private java.time.LocalDate fechaNacimiento;
 }
